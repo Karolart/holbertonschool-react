@@ -1,0 +1,473 @@
+[Trace 19:18:49.287] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:18:49.297] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:18:49.302] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:18:49.302] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:18:49.470] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 1
+[Debug 19:18:49.471] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:18:49.820] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 1
+[Debug 19:18:49.821] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:18:49.825] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:18:50.058] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:29.013] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:29.016] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:29.137] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:29.139] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:29.226] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:29.287] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:29.291] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:29.495] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:22:29.845] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 4
+[Debug 19:22:29.850] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:30.046] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 4
+[Debug 19:22:30.049] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:31.714] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:31.720] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:31.873] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:31.875] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:31.922] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:31.998] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:32.000] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:32.206] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:22:32.303] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 7
+[Debug 19:22:32.306] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:32.387] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 7
+[Debug 19:22:32.388] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:35.237] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:35.240] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:35.419] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 8
+[Debug 19:22:35.419] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:35.446] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:22:35.487] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:35.570] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 8
+[Trace 19:22:35.796] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:35.799] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:36.033] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 9
+[Debug 19:22:36.033] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:36.034] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:36.144] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 9
+[Debug 19:22:36.145] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:42.709] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:42.710] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:42.831] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 10
+[Debug 19:22:42.831] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:42.882] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:42.920] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:43.005] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 10
+[Trace 19:22:44.107] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:44.108] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:44.256] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:44.257] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:44.309] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:22:44.451] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 12
+[Debug 19:22:44.452] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:44.608] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 12
+[Debug 19:22:44.609] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:44.946] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:44.946] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:45.145] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 13
+[Debug 19:22:45.145] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:45.150] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:45.293] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 13
+[Debug 19:22:45.293] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.194] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.195] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.360] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.360] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.400] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:22:48.558] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 15
+[Debug 19:22:48.564] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.661] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.662] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:48.858] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 16
+[Debug 19:22:48.859] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:48.865] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:49.015] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 16
+[Debug 19:22:49.016] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:49.722] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:49.724] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:49.924] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 17
+[Debug 19:22:49.924] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:49.930] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:50.077] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 17
+[Debug 19:22:50.077] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:57.500] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:57.501] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:57.682] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 18
+[Debug 19:22:57.683] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:57.730] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:22:57.749] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:57.839] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 18
+[Trace 19:22:58.719] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:58.720] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:58.906] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 19
+[Debug 19:22:58.907] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:58.924] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:22:59.062] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 19
+[Debug 19:22:59.063] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:59.353] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:59.355] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:22:59.570] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 20
+[Debug 19:22:59.571] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:59.617] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:22:59.619] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:22:59.711] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 20
+[Trace 19:23:01.169] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:01.169] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:23:01.371] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 21
+[Debug 19:23:01.372] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:01.377] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:23:01.408] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:01.510] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 21
+[Trace 19:23:02.481] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:02.483] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:23:02.668] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 22
+[Debug 19:23:02.669] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:02.691] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:23:02.716] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:02.810] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 22
+[Trace 19:23:03.089] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:03.090] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:23:03.274] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 23
+[Debug 19:23:03.274] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:03.294] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:23:03.321] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:03.429] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 23
+[Trace 19:23:05.938] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:05.940] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:23:06.124] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 24
+[Debug 19:23:06.125] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:06.144] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:23:06.174] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:23:06.279] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 24
+[Trace 19:24:17.182] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:17.183] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:24:17.336] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 25
+[Debug 19:24:17.337] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:24:17.383] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:17.396] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:24:17.483] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 25
+[Trace 19:24:22.573] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:22.575] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:22.672] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:22.672] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:22.781] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:24:22.865] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 27
+[Debug 19:24:22.866] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:22.944] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:22.945] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:24:23.144] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 28
+[Debug 19:24:23.145] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:23.150] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:24:23.285] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 28
+[Debug 19:24:23.286] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:24.682] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:24.684] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:24.841] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:24.842] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:24.895] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:24:25.019] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 30
+[Debug 19:24:25.020] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:25.175] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 30
+[Debug 19:24:25.175] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:26.518] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:26.520] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:24:26.705] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 31
+[Debug 19:24:26.706] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:26.723] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:24:26.757] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:27.121] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 31
+[Trace 19:24:27.899] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:27.902] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:28.064] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:28.064] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:28.104] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:24:28.225] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:28.226] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:24:28.414] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 34
+[Debug 19:24:28.415] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:28.429] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:24:28.568] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 34
+[Debug 19:24:28.568] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:29.641] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:29.644] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:24:29.817] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 35
+[Debug 19:24:29.820] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:29.851] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:24:29.969] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 35
+[Debug 19:24:29.969] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:34.027] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:34.027] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:24:34.206] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 36
+[Debug 19:24:34.206] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:24:34.230] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:24:34.628] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 36
+[Debug 19:24:34.628] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:03.224] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:03.225] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:30:03.416] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 37
+[Debug 19:30:03.417] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:03.443] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:03.570] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 37
+[Debug 19:30:03.570] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.362] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.362] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.583] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:30:04.584] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 38
+[Debug 19:30:04.584] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:30:04.599] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.706] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 38
+[Trace 19:30:04.929] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.930] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.951] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.952] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.992] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:04.993] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.028] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.029] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.071] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.073] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.152] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.152] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.158] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.158] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:05.163] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.230] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.230] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.239] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.255] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.279] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.281] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.338] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.338] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.350] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.350] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.361] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:05.391] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.391] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.435] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.436] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.471] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.472] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.509] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.510] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.552] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.553] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.589] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.590] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.595] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:05.626] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.627] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.672] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.673] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.710] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.711] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.753] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.754] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.783] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.783] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.830] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.831] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.832] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:05.872] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.873] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.910] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.911] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.952] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.953] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.991] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:05.992] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.029] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.030] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.035] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:06.069] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.070] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.111] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.112] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.149] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.151] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.187] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.188] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.231] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.232] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.269] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.270] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.273] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:06.298] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.298] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.343] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.343] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.389] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.390] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.426] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.428] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.469] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.470] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.474] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:06.499] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.500] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.543] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.543] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.588] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.590] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.618] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.619] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.661] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.661] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.702] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:06.709] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.710] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.811] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.811] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.812] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.902] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.904] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.904] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:06.909] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.108] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:07.109] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.110] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.110] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.111] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.117] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.118] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.120] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.156] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.156] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.181] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.181] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.231] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.232] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.271] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.274] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.299] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.300] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.301] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:07.342] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.344] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.446] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.447] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.448] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.449] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.466] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:07.467] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.086] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.088] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.088] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.089] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.089] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.090] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.090] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.090] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.091] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.091] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.092] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.092] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.093] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.093] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.093] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.094] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.094] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:08.105] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.118] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.119] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.157] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.158] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.235] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.236] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.236] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.260] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.298] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.298] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.328] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:08.336] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.337] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.373] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.373] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.408] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.408] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.534] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.535] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.536] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.538] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.545] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:08.545] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.546] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.552] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.600] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.602] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.631] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.631] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.672] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.673] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.697] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.698] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.743] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:08.751] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.753] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:30:08.947] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 135
+[Debug 19:30:08.947] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:08.957] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:30:08.996] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:09.103] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 135
+[Trace 19:30:09.439] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:09.440] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:09.576] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:09.577] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:09.645] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:30:09.759] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 137
+[Debug 19:30:09.760] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:09.916] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 137
+[Debug 19:30:09.916] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:13.855] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:13.856] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:30:14.040] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 138
+[Debug 19:30:14.041] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:14.061] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 19:30:14.083] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:14.195] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 138
+[Trace 19:30:18.932] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 19:30:18.933] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 139
+[Debug 19:30:18.933] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:18.933] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 139
+[Debug 19:30:18.933] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:18.933] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 19:30:19.170] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 19:30:24.481] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/karolart/.vscode-server/data/User/History/53158e80/S2gF.md
+[Trace 19:30:24.481] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:10:52.101] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 20:10:52.102] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 140
+[Debug 20:10:52.102] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:10:52.102] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 140
+[Debug 20:10:52.102] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:10:52.103] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:10:56.060] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 20:10:56.177] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 141
+[Debug 20:10:56.177] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:10:56.177] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 141
+[Debug 20:10:56.178] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:10:56.371] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 20:10:57.292] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:10:57.446] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 20:15:08.679] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:08.680] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:08.708] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:08.708] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:08.860] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:08.860] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:08.883] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 20:15:09.751] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 144
+[Debug 20:15:09.752] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:09.995] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:09.996] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:10.145] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:10.145] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:10.198] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 20:15:10.297] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:10.299] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:10.502] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Debug 20:15:11.204] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 147
+[Debug 20:15:11.204] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Debug 20:15:12.020] LinkProvider: compute - file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md
+[Trace 20:15:12.072] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md 147
+[Trace 20:16:44.142] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x00-html_advanced/README.md
+[Trace 20:16:44.417] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-frontend/0x01-developer_tools/README.md

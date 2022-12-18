@@ -1,0 +1,12 @@
+2022-12-16 11:54:17.044 [info] Extension host agent started.
+2022-12-16 11:54:17.478 [info] [127.0.0.1][356134d3][ManagementConnection] New connection established.
+2022-12-16 11:54:17.588 [info] [127.0.0.1][725b8ca5][ExtensionHostConnection] New connection established.
+2022-12-16 11:54:26.947 [error] ptyHost was unable to resolve shell environment {}
+2022-12-16 11:54:26.994 [error] RequestService#request (node) resolving shell environment failed {}
+2022-12-16 11:54:27.003 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+2022-12-16 11:54:27.559 [info] [127.0.0.1][725b8ca5][ExtensionHostConnection] <97> Launched Extension Host Process.
+2022-12-16 11:54:30.116 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+2022-12-16 12:00:41.282 [info] [127.0.0.1][725b8ca5][ExtensionHostConnection] The client has reconnected.
+2022-12-16 12:00:41.364 [info] [127.0.0.1][356134d3][ManagementConnection] The client has reconnected.
+2022-12-16 15:17:07.316 [info] [127.0.0.1][356134d3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-16 15:17:10.132 [info] [127.0.0.1][725b8ca5][ExtensionHostConnection] <97> Extension Host Process exited with code: 0, signal: null.

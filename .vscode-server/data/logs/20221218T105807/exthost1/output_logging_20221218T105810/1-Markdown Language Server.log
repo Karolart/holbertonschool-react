@@ -1,0 +1,13 @@
+[Trace 15:58:13.360] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md
+[Trace 15:58:13.366] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md
+[Trace 15:58:13.380] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md
+[Trace 15:58:14.485] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md 1
+[Debug 15:58:14.486] LinkProvider: compute - file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md
+[Debug 15:58:14.490] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md 1
+[Debug 15:58:14.492] TableOfContentsProvider: create - file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md
+[Trace 15:58:14.631] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md 1
+[Trace 15:58:14.631] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md 1
+[Trace 15:58:15.289] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md
+[Trace 15:58:18.278] DocumentSymbolProvider: provideDocumentSymbols — file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md 1
+[Debug 15:58:18.280] MdFoldingProvider: provideFoldingRanges — file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md 1
+[Trace 16:29:32.879] Server: connection.languages.diagnostics.on: file:///home/karolart/holbertonschool-interview/0x02-minimum_operations/README.md

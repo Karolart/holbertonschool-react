@@ -1,0 +1,23 @@
+2022-12-13 15:11:21.296 [info] Log level: Info
+2022-12-13 15:11:21.296 [info] Validating found git in: "git"
+2022-12-13 15:11:21.296 [info] Using git "2.25.1" from "git"
+2022-12-13 15:11:21.296 [info] > git rev-parse --show-toplevel [258ms]
+2022-12-13 15:11:21.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-13 15:11:21.296 [info] > git rev-parse --show-toplevel [67ms]
+2022-12-13 15:11:21.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-13 15:11:21.299 [info] > git rev-parse --show-toplevel [143ms]
+2022-12-13 15:11:21.299 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-13 15:11:21.377 [info] > git rev-parse --show-toplevel [26ms]
+2022-12-13 15:11:21.423 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2022-12-13 15:11:21.455 [info] Open repository: /home/karolart/holbertonschool-frontend-javascript
+2022-12-13 15:11:21.569 [info] > git rev-parse --show-toplevel [73ms]
+2022-12-13 15:11:21.569 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-13 15:11:21.597 [info] > git config --get commit.template [31ms]
+2022-12-13 15:11:21.672 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2022-12-13 15:11:21.749 [info] > git status -z -uall [41ms]
+2022-12-13 15:11:21.761 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2022-12-13 15:11:21.908 [info] > git config --get commit.template [86ms]
+2022-12-13 15:11:21.916 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2022-12-13 15:11:22.008 [info] > git status -z -uall [47ms]
+2022-12-13 15:11:22.025 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2022-12-13 15:11:22.926 [info] > git check-ignore -v -z --stdin [169ms]

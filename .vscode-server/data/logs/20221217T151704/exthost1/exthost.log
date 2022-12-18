@@ -1,0 +1,17 @@
+2022-12-17 15:17:15.361 [info] Extension host with pid 138 started
+2022-12-17 15:17:15.485 [info] Lock '/home/karolart/.vscode-server/data/User/workspaceStorage/e87297d80ed91d9a981cbfb24e7a1840/vscode.lock': Lock acquired.
+2022-12-17 15:17:16.095 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-17 15:17:16.297 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-17 15:17:16.299 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-17 15:17:17.319 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 15:17:17.323 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 15:17:17.325 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 15:17:17.328 [info] Eager extensions activated
+2022-12-17 15:17:19.775 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1929
+2022-12-17 15:17:23.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1929
+2022-12-17 15:17:26.538 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-17 15:17:26.541 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-17 15:17:26.542 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-17 15:25:28.285 [info] Extension host terminating: received terminate message from renderer
+2022-12-17 15:25:28.286 [info] Lock '/home/karolart/.vscode-server/data/User/workspaceStorage/e87297d80ed91d9a981cbfb24e7a1840/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-17 15:25:28.399 [info] Extension host with pid 138 exiting with code 0

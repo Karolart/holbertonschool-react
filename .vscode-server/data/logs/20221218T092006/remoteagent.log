@@ -1,0 +1,6 @@
+2022-12-18 09:20:07.104 [info] Extension host agent started.
+2022-12-18 09:20:09.875 [info] [127.0.0.1][c664d51d][ManagementConnection] New connection established.
+2022-12-18 09:20:09.882 [info] [127.0.0.1][5ee0aafe][ExtensionHostConnection] New connection established.
+2022-12-18 09:20:11.204 [info] [127.0.0.1][5ee0aafe][ExtensionHostConnection] <117> Launched Extension Host Process.
+2022-12-18 10:42:58.575 [info] [127.0.0.1][5ee0aafe][ExtensionHostConnection] The client has reconnected.
+2022-12-18 10:42:59.154 [info] [127.0.0.1][c664d51d][ManagementConnection] The client has reconnected.

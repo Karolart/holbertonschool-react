@@ -1,0 +1,26 @@
+2022-12-13 14:38:37.340 [info] Log level: Info
+2022-12-13 14:38:37.340 [info] Validating found git in: "git"
+2022-12-13 14:38:37.340 [info] Using git "2.25.1" from "git"
+2022-12-13 14:38:37.340 [info] > git rev-parse --show-toplevel [28ms]
+2022-12-13 14:38:37.340 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-13 14:38:37.342 [info] > git rev-parse --show-toplevel [17ms]
+2022-12-13 14:38:37.342 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-13 14:38:37.389 [info] > git rev-parse --show-toplevel [12ms]
+2022-12-13 14:38:37.390 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-13 14:39:18.764 [info] > git rev-parse --show-toplevel [10ms]
+2022-12-13 14:39:18.812 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2022-12-13 14:39:18.840 [info] Open repository: /home/karolart/holbertonschool-frontend-javascript
+2022-12-13 14:39:18.911 [info] > git config --get commit.template [13ms]
+2022-12-13 14:39:18.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2022-12-13 14:39:19.233 [info] > git status -z -uall [124ms]
+2022-12-13 14:39:19.242 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2022-12-13 14:39:19.615 [info] > git check-ignore -v -z --stdin [9ms]
+2022-12-13 14:39:19.626 [info] > git rev-parse --show-toplevel [81ms]
+2022-12-13 14:39:19.630 [info] > git config --get commit.template [174ms]
+2022-12-13 14:39:19.693 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+2022-12-13 14:39:19.798 [info] > git status -z -uall [61ms]
+2022-12-13 14:39:19.816 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+2022-12-13 14:44:37.710 [info] > git config --get commit.template [36ms]
+2022-12-13 14:44:37.718 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2022-12-13 14:44:37.773 [info] > git status -z -uall [30ms]
+2022-12-13 14:44:37.784 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]

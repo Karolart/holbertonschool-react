@@ -1,0 +1,15 @@
+2022-12-13 15:11:19.049 [info] Extension host with pid 61 started
+2022-12-13 15:11:19.399 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-13 15:11:19.444 [info] Lock '/home/karolart/.vscode-server/data/User/workspaceStorage/e87297d80ed91d9a981cbfb24e7a1840/vscode.lock': Lock acquired.
+2022-12-13 15:11:20.018 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-13 15:11:20.019 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-13 15:11:20.717 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-13 15:11:20.719 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-13 15:11:20.721 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-13 15:11:20.723 [info] Eager extensions activated
+2022-12-13 15:11:22.082 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-13 15:11:22.084 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-13 15:11:22.084 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-14 00:05:33.742 [info] Extension host terminating: received terminate message from renderer
+2022-12-14 00:05:33.745 [info] Lock '/home/karolart/.vscode-server/data/User/workspaceStorage/e87297d80ed91d9a981cbfb24e7a1840/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-14 00:05:34.140 [info] Extension host with pid 61 exiting with code 0

@@ -1,13 +1,13 @@
-#0x01. React intro  
+# 0x01. React intro  
 ___________________________________________________________  
 ![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/79df527164ac54981039.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20221228%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20221228T133013Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e1188f18dce259497b618773334c957dc1413f89289b6c040a410d9ebd1359f6)  
   
-##Tasks  
+## Tasks  
   
-**0. Basic application**  
+** 0. Basic application **  
 - Create a basic app named dashboard using create-react-app in your task_0 directory  
 ________________________________________________________________________________  
-**1. Embedding expressions, functions**  
+** 1. Embedding expressions, functions **  
 - Using your code from the previous task, in task_1/dashboard/src/utils.js  
 ________________________________________________________________________________  
 **2. Modify the App**  
